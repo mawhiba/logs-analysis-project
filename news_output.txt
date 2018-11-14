@@ -1,0 +1,14 @@
+
+# 1. What are the most popular three articles of all time?
+('Candidate is jerk, alleges rival', 338647L)
+('Bears love berries, alleges bear', 253801L)
+('Bad things gone, say good people', 170098L)
+
+# 2. Who are the most popular article authors of all time?
+('Ursula La Multa', Decimal('507594'))
+('Rudolf von Treppenwitz', Decimal('423457'))
+('Anonymous Contributor', Decimal('170098'))
+('Markoff Chaney', Decimal('84557'))
+
+# 3. On which days did more than 1% of requests lead to errors?
+('Jul 17, 2016', Decimal('2.26'))
